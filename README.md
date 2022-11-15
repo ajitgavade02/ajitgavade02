@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ajith 
 - 👀 I’m interested in Android Dev | CP | React Js 
 - 🌱 I’m currently learning Full stack Development
-- 🖤 I’m looking for Web Project
+- 🖤 I’m looking for Web Project.
 - 📫 Connect by-  ajitgavade02@outlook.com
 
 <!---
